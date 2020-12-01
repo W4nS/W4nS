@@ -14,17 +14,16 @@ TELAH MEMBUKA MENU DONASI
 
 KALIAN BISA DONASI MENGGUNAKAN
    
-🛡 *PULSA*: 081213477896
-🛡 *OVO*: 081213477896
-🛡 *DANA* : 081213477896
-🛡 *TRAKTEER*: https://trakteer.id/aditiaalfiansyah
+🛡 *PULSA*: 085852353712
+🛡 *OVO*: 085852353712
+🛡 *DANA* : 085852353712
 
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
  🏍🏍🏍🏍🏍🏍🏍🏍🏍🏍🏍
 *Follow Me On Instagram*
-${instagram}
+${norman_wawan}
 
-👾whatsapp : ${whatsapp}
+👾whatsapp : ${085852353712}
 
 `
 }
